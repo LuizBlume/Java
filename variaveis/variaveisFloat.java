@@ -1,3 +1,4 @@
+package variaveis;
 public class variaveisFloat {
     public static void main(String[] args) {
         double nota1 = 9.5; // float

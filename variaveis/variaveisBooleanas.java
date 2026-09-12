@@ -1,3 +1,4 @@
+package variaveis;
 public class variaveisBooleanas {
     public static void main(String[] args) {
         double nota1 = 9;
